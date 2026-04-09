@@ -1,0 +1,28 @@
+# Python virtual environment
+venv/
+__pycache__/
+
+# Database & Local Logs
+*.duckdb
+*.duckdb.wal
+logs/
+
+# Raw Data (Besar, tidak boleh di-upload)
+data/raw/*.csv
+
+# Mac System Files
+.DS_Store
+# Python virtual environment
+venv/
+__pycache__/
+
+# Database & Local Logs
+*.duckdb
+*.duckdb.wal
+logs/
+
+# Raw Data (Besar, tidak boleh di-upload)
+data/raw/*.csv
+
+# Mac System Files
+.DS_Store

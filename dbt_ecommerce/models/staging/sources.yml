@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: raw_data
+    schema: main
+    description: "Data mentah hasil ingestion dari Kaggle Olist Dataset"
+    tables:
+      - name: raw_orders
+      - name: raw_order_items
+      - name: raw_products
